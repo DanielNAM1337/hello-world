@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi,
+
+Daniel NAM here, I like C#, JavaScript.
